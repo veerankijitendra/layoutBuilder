@@ -1,0 +1,72 @@
+/* Write your CSS here */
+
+.body-con {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.4rem 0;
+
+  min-height: 50vh;
+}
+
+.navbar-bg {
+  color: #475569;
+  background-color: #cbd5e1;
+
+  padding: 1rem 0.7rem;
+
+  font-family: 'Roboto';
+
+  min-width: 25%;
+}
+
+.content-bg {
+  background-color: #f1f5f9;
+  color: #475569;
+
+  padding: 1rem 0.7rem;
+
+  font-family: 'Roboto';
+
+  flex-grow: 1;
+}
+
+.body-heading {
+  font-weight: 700;
+  font-size: 12px;
+
+  color: #475569;
+}
+
+.left-nav-list {
+  list-style-type: none;
+  padding-left: 12px;
+  color: #475569;
+}
+
+.left-nav-item {
+  font-size: 14px;
+  margin-top: 14px;
+}
+
+.ad-con {
+  border: 1px solid #64748b;
+
+  min-height: 4rem;
+  min-width: 4rem;
+
+  margin-top: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ad-para {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.body-content-para {
+  font-size: 14px;
+  margin-top: 12px;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.header-con {
+  background-color: #e2e8f0;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-heading {
+  color: #475569;
+}
